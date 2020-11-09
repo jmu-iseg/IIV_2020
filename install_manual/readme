@@ -1,1 +1,36 @@
-test
+1.	Entwicklungsumgebung für die Übung
+
+In der Übung zu IIV werden wir Übungsaufgaben Nutzen, um neben der Theorie zu einzelnen Themen, auch die Technologie dahinter nachvollziehen zu können. Hierzu greifen wir neben Software und Webplattformen auch auf die Programmiersprache Python in Form von Jupyter Notebooks zurück. Für diejenigen denen weder Python noch Jupyter Notebooks ein Begriff sind, hier zwei links zur kurzen Einführung:
+•	https://blog.oreilly.de/2019/01/08/was-ist-jupyter/
+•	https://de.wikipedia.org/wiki/Python_(Programmiersprache) 
+Wer noch nie Jupyter Notebooks verwendet oder noch keine Umgebung zum Ausführen von Python und Jupyter Notebooks besitzt, dem soll diese Anleitung eine Hilfestellung leisten, eine geeignete Umgebung für die Übung zu schaffen.
+
+Grundsätzlich gibt es zwei Möglichkeiten, die getestet wurden, um die in der Übung bereitgestellten Jupyter Notebooks zu betreiben.
+1.	Lokal auf dem eigenen Rechner
+2.	Google Colab (kostenlos, empfohlen, aber Google Account nötig)
+
+Für beide Möglichkeiten wird im Folgenden eine Kurzanleitung bereitgestellt, um die Einrichtung schnell und einfach zu ermöglichen.
+1.1.	Lokale Entwicklung
+
+
+1.2.	Google Colab
+Google Colab ist eine Entwicklungsumgebung, die den Nutzern über die GCC kostenlos bereitgestellt wird. Einzige Voraussetzung ist ein Google-Account. Zur Anmeldung / Account Erstellung einfach auf folgende Adresse gehen:
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=GJBs_flRovLc 
+und oben rechts über den Button „Anmelden“ mit dem Google Konto anmelden bzw. ein neues Konto erstellen. 
+
+ 
+
+
+Nach der erfolgreichen Anemeldung kommt man in Colab zum Startbildschirm, auf dem man seine bestehenden Projetke sieht bzw. neue Projekte Starten kann. 
+
+ 
+
+https://colab.research.google.com/notebooks/intro.ipynb# 
+
+
+
+
+
+
+
+
